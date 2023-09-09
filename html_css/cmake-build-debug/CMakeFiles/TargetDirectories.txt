@@ -1,0 +1,3 @@
+C:/Users/basma sabry/CLionProjects/html_css/cmake-build-debug/CMakeFiles/html_css.dir
+C:/Users/basma sabry/CLionProjects/html_css/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/basma sabry/CLionProjects/html_css/cmake-build-debug/CMakeFiles/rebuild_cache.dir

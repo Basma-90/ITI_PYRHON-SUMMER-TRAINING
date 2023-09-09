@@ -1,0 +1,99 @@
+
+*{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    margin-top: 80px;
+    text-align: justify;
+    width:25%;
+    height:50%;
+    position: relative;
+    margin-left: 450px;
+
+    background-color: rgba(0, 0, 0, 0.8);
+}
+fieldset
+
+{
+    border-size: 2px solid white ;
+    border-radius: 10px;
+    margin:20px;
+    padding-right: 24px;
+    padding-left: 30px;
+    padding-top: 13px;
+    padding-bottom: 15px;
+    position: relative;
+
+}
+body{
+
+    background-image: url("WhatsApp Image 2023-08-07 at 14.36.28.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img
+{
+    width:90px;
+    height: 90px;
+    border-radius: 50px;
+    position: relative;
+}
+h1
+{
+    text-align: center;
+    color: white;
+
+}
+h1::first-letter
+{
+    font-size: 60px;
+}
+h1 span{
+    font-size: 60px;
+}
+.uname input[type="text"]
+{
+    width: 80%;
+    margin-left: 20px;
+    margin-bottom: 25px;
+    padding: 8px;
+}
+.pass input[type="password"]
+{
+    width: 80%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+
+form input[type="button"]
+{
+    background-color: orangered;
+    border-radius: 19px;
+    text-align:center ;
+    color:black;
+    width:150px;
+    height:40px;
+    margin-left:50px;
+    margin-bottom: 30px;
+}
+label{
+    text-align: start;
+    display: block;
+    margin-left: 28px;
+    color: white;
+}
+.lnk
+{
+    margin-right: -90px;
+    display:block;
+    margin-left: 20px;
+}
+.lnk span{
+    display: block;
+}
+.lnk:hover
+{
+    color: #5a046e;
+}
