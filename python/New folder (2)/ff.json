@@ -1,0 +1,62 @@
+[
+    {
+        "password": "009",
+        "confirm_password": "009",
+        "first_name": "basma",
+        "last_name": "sabry",
+        "age": 19,
+        "id": "bas@gmail.com",
+        "email": "bas@gmail.com",
+        "phone": "01550057089"
+    },
+    {
+        "password": "0098",
+        "confirm_password": "0098",
+        "first_name": "doaa",
+        "last_name": "ahmed",
+        "age": 23,
+        "id": "doaa@gmail.com",
+        "email": "doaa@gmail.com",
+        "phone": "01222677876"
+    },
+    {
+        "password": "12345",
+        "confirm_password": "12345",
+        "first_name": "omar",
+        "last_name": "adel",
+        "age": 20,
+        "id": "omar@gmail.com",
+        "email": "omar@gmail.com",
+        "phone": "01226755462"
+    },
+    {
+        "password": "90087",
+        "confirm_password": "90087",
+        "first_name": "aya",
+        "last_name": "hamza",
+        "age": 24,
+        "id": "aya@gmail.com",
+        "email": "aya@gmail.com",
+        "phone": "01223433564"
+    },
+    {
+        "password": "100",
+        "confirm_password": "100",
+        "first_name": "doaa",
+        "last_name": "abdelaziz",
+        "age": 21,
+        "id": "dod@gmail.com",
+        "email": "dod@gmail.com",
+        "phone": "01272029912"
+    },
+    {
+        "password": "09876",
+        "confirm_password": "09876",
+        "first_name": "omar",
+        "last_name": "saad",
+        "age": 15,
+        "id": "omarr@gmail.com",
+        "email": "omarr@gmail.com",
+        "phone": "01222877897"
+    }
+]

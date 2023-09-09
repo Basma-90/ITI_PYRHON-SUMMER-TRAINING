@@ -1,0 +1,42 @@
+[
+    {
+        "user_id": "bas@gmail.com",
+        "title": "update",
+        "details": "rtr",
+        "total_target": "8990",
+        "start_date": "11-11-2023",
+        "end_date": "12-11-2023"
+    },
+    {
+        "user_id": "doaa@gmail.com",
+        "title": "python3",
+        "details": "console",
+        "total_target": "900900",
+        "start_date": "11-12-2024",
+        "end_date": "12-12-2025"
+    },
+    {
+        "user_id": "omar@gmail.com",
+        "title": "notebook",
+        "details": "c#_oop",
+        "total_target": "8900",
+        "start_date": "11-11-2022",
+        "end_date": "11-12-2023"
+    },
+    {
+        "user_id": "aya@gmail.com",
+        "title": "oop",
+        "details": "library_system",
+        "total_target": "9000",
+        "start_date": "11-09-2023",
+        "end_date": "11-08-2024"
+    },
+    {
+        "user_id": "dod@gmail.com",
+        "title": "to_do_list",
+        "details": "fluter",
+        "total_target": "7500",
+        "start_date": "09-09-2023",
+        "end_date": "11-11-2023"
+    }
+]
